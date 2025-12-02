@@ -17,3 +17,11 @@ It scans a directory and moves files into organized subfolders based on their ex
    python tidy-desktop.py organize "C:/Users/You/Downloads"
 
 Note: if shows error "Got unexpected extra arguments" Please rename your folder with  this "_".
+
+## ☕ Support Me
+If you like my code, you can treat me a coffee!
+(https://ko-fi.com/zidanegunawan24)
+
+## 💼 Need Custom Bot?
+I'm available for hire! Check my services on Fiverr:
+👉 **[My Fiverr Profile](https://www.fiverr.com/helliourz)**
